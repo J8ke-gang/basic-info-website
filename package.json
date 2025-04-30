@@ -1,0 +1,21 @@
+{
+  "name": "basic-info-website",
+  "version": "1.0.0",
+  "description": "making a basic info website with node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J8ke-gang/basic-info-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J8ke-gang/basic-info-website/issues"
+  },
+  "homepage": "https://github.com/J8ke-gang/basic-info-website#readme"
+}
